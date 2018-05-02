@@ -1,4 +1,4 @@
-var token = 'Replace with your own token';
+var token = 'EHn8qINePuY0Hjx';
 
 console.log('Starting bot...');
 
